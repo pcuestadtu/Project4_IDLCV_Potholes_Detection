@@ -1,0 +1,4830 @@
+[
+    {
+        "box": [
+            0,
+            0,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.06631875,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            154,
+            102,
+            197,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            320,
+            27,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            344,
+            170,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            267,
+            178,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.11178082191780822,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            171,
+            151,
+            355,
+            246
+        ],
+        "label": "pothole",
+        "max_iou": 0.5251099408219773,
+        "matched_gt": 0,
+        "matches": [
+            0
+        ]
+    },
+    {
+        "box": [
+            0,
+            0,
+            400,
+            239
+        ],
+        "label": "background",
+        "max_iou": 0.11099372384937238,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            53,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.02142857142857143,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            82,
+            0,
+            102,
+            7
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            166,
+            163,
+            179,
+            178
+        ],
+        "label": "background",
+        "max_iou": 0.018377155781735936,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            120,
+            263,
+            139,
+            282
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            329,
+            18,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            125,
+            373,
+            169,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            213,
+            365,
+            258,
+            391
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            241,
+            331,
+            257,
+            345
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            63,
+            212,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            257,
+            345,
+            276,
+            360
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            176,
+            310,
+            191,
+            326
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            48,
+            277,
+            75,
+            316
+        ],
+        "label": "background",
+        "max_iou": 0.3505933117583603,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            63,
+            218,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            99,
+            343,
+            124,
+            359
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            246,
+            220,
+            293,
+            240
+        ],
+        "label": "background",
+        "max_iou": 0.038012221423436375,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            256,
+            44,
+            271,
+            61
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            53,
+            257,
+            77,
+            270
+        ],
+        "label": "background",
+        "max_iou": 0.0328879753340185,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            343,
+            0,
+            400,
+            15
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            70,
+            221
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            79,
+            240,
+            110,
+            261
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            185,
+            148,
+            210,
+            160
+        ],
+        "label": "background",
+        "max_iou": 0.02827254735651682,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            286,
+            0,
+            309,
+            8
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            14,
+            249,
+            344,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.05424443106562312,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            137,
+            120,
+            224,
+            160
+        ],
+        "label": "background",
+        "max_iou": 0.05384787973973525,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            240,
+            392,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            363,
+            206,
+            400,
+            237
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            203,
+            194,
+            239,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.09838846480067855,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            229,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.039517543859649125,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            309,
+            320,
+            338,
+            332
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            252,
+            352,
+            267,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            81,
+            241,
+            109,
+            260
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            231,
+            115,
+            250,
+            125
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            344,
+            239,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            329,
+            223,
+            351,
+            236
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            125,
+            380,
+            157,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            170,
+            281,
+            186,
+            300
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            88,
+            400,
+            381
+        ],
+        "label": "background",
+        "max_iou": 0.09053754266211604,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            170,
+            226,
+            187,
+            240
+        ],
+        "label": "background",
+        "max_iou": 0.004723096869790702,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            305,
+            51,
+            336,
+            65
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            206,
+            365,
+            222,
+            382
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            270,
+            225,
+            294,
+            241
+        ],
+        "label": "background",
+        "max_iou": 0.008808147536471236,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            98,
+            343,
+            121,
+            361
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            171,
+            141,
+            400,
+            307
+        ],
+        "label": "background",
+        "max_iou": 0.2603353982530261,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            246,
+            346,
+            269,
+            362
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            79,
+            254,
+            117,
+            289
+        ],
+        "label": "background",
+        "max_iou": 0.14346470087893393,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            328,
+            220,
+            350,
+            235
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            303,
+            338,
+            332,
+            352
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            275,
+            159,
+            295,
+            177
+        ],
+        "label": "background",
+        "max_iou": 0.033927056827820185,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            387,
+            258,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            329,
+            17,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            338,
+            328,
+            365,
+            338
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            240,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.060334821428571425,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            257,
+            53,
+            346
+        ],
+        "label": "background",
+        "max_iou": 0.021897810218978103,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            309,
+            41,
+            334
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            34,
+            257,
+            53,
+            303
+        ],
+        "label": "background",
+        "max_iou": 0.03202538949798038,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            268,
+            185,
+            287,
+            196
+        ],
+        "label": "background",
+        "max_iou": 0.019696541325040052,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            385,
+            33,
+            400,
+            49
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            71,
+            221
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            321,
+            26,
+            345
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            344,
+            242,
+            364,
+            255
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            196,
+            35,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            189,
+            270,
+            224,
+            287
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            384,
+            38,
+            400,
+            53
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            79,
+            240,
+            110,
+            262
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            375,
+            193,
+            400,
+            209
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            71,
+            35,
+            103
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            345,
+            207,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            196,
+            374,
+            210,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            63,
+            344,
+            97,
+            352
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            289,
+            109,
+            339,
+            135
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            239,
+            62,
+            257
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            14,
+            54,
+            45,
+            66
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            252,
+            345,
+            276,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            106,
+            0,
+            400,
+            80
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            242,
+            159,
+            292,
+            183
+        ],
+        "label": "background",
+        "max_iou": 0.11309018942606729,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            89,
+            391,
+            116,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            362,
+            26,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            267,
+            309,
+            298,
+            320
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            192,
+            324,
+            216,
+            335
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            150,
+            292,
+            178,
+            309
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            300,
+            111,
+            332,
+            125
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            242,
+            390,
+            259,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            187,
+            351,
+            207,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            240,
+            392,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            89,
+            391,
+            107,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            121,
+            320,
+            152,
+            362
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            110,
+            72,
+            249,
+            116
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            112,
+            314,
+            130,
+            337
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            54,
+            63,
+            106,
+            89
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            341,
+            239,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            166,
+            115,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.12774102079395086,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            149,
+            350,
+            213,
+            384
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            14,
+            249,
+            354,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.05264900662251656,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            267,
+            229,
+            293,
+            242
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            163,
+            179,
+            179
+        ],
+        "label": "background",
+        "max_iou": 0.021110168692865895,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            205,
+            150,
+            228,
+            163
+        ],
+        "label": "background",
+        "max_iou": 0.028178305531995098,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            304,
+            51,
+            335,
+            63
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            254,
+            162,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.11428209030948756,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            187,
+            374,
+            204,
+            391
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            78,
+            254,
+            121,
+            285
+        ],
+        "label": "background",
+        "max_iou": 0.12142261739372048,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            23,
+            348,
+            63,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            141,
+            61,
+            179,
+            82
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            62,
+            157,
+            80,
+            170
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            237,
+            159,
+            255,
+            170
+        ],
+        "label": "background",
+        "max_iou": 0.018659881255301103,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            36,
+            277
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            213,
+            365,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            178,
+            97,
+            187
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            321,
+            27,
+            345
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            356,
+            67,
+            400,
+            81
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            72,
+            63,
+            133,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            267,
+            162,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.12279483261564106,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            153,
+            293,
+            178,
+            309
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            198,
+            0,
+            229,
+            8
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            56,
+            98,
+            81
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            303,
+            340,
+            354,
+            370
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            179,
+            138,
+            194,
+            157
+        ],
+        "label": "background",
+        "max_iou": 0.012545302481182047,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            275,
+            200,
+            311,
+            217
+        ],
+        "label": "background",
+        "max_iou": 0.031241385647339887,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            42,
+            297,
+            66,
+            320
+        ],
+        "label": "background",
+        "max_iou": 0.12125387530141234,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            233,
+            0,
+            400,
+            60
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            251,
+            39,
+            271,
+            61
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            70,
+            88,
+            111,
+            114
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            71,
+            178,
+            97,
+            204
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            151,
+            355,
+            246
+        ],
+        "label": "pothole",
+        "max_iou": 0.54748663679067,
+        "matched_gt": 0,
+        "matches": [
+            0
+        ]
+    },
+    {
+        "box": [
+            190,
+            144,
+            213,
+            157
+        ],
+        "label": "background",
+        "max_iou": 0.01934037185835747,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            338,
+            325,
+            365,
+            338
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            236,
+            354,
+            257,
+            370
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            383,
+            258,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            152,
+            83,
+            249,
+            116
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            207,
+            159,
+            295,
+            193
+        ],
+        "label": "background",
+        "max_iou": 0.28197153896899446,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            285,
+            36,
+            320
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            89,
+            179,
+            107
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            98,
+            391,
+            116,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            56,
+            133,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            303,
+            339,
+            331,
+            351
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            107,
+            63,
+            133,
+            83
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            345,
+            387,
+            364,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            303,
+            338,
+            345,
+            374
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            35,
+            186,
+            62,
+            195
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            309,
+            320,
+            365,
+            338
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            17,
+            284,
+            37,
+            312
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            63,
+            212,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            63,
+            169,
+            73
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            53,
+            346
+        ],
+        "label": "background",
+        "max_iou": 0.022222222222222223,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            256,
+            48,
+            271,
+            59
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            316,
+            378,
+            363,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            267,
+            313,
+            285,
+            325
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            62,
+            342,
+            103,
+            356
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            200,
+            317,
+            236,
+            331
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            53,
+            62,
+            133,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            166,
+            97,
+            222
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            314,
+            351,
+            345,
+            374
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            110,
+            72,
+            170,
+            115
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            100,
+            168,
+            124,
+            192
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            55,
+            232,
+            74,
+            248
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            384,
+            33,
+            400,
+            49
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            139,
+            0,
+            400,
+            81
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            186,
+            35,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            328,
+            220,
+            350,
+            236
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            381,
+            218,
+            400,
+            240
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            141,
+            61,
+            213,
+            107
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            387,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            221,
+            333,
+            240,
+            343
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            22,
+            151,
+            47,
+            165
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            116,
+            381,
+            159,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            251,
+            284,
+            270,
+            300
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            71,
+            213,
+            81,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            104,
+            347,
+            119,
+            361
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            240,
+            381,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            170,
+            222,
+            192,
+            241
+        ],
+        "label": "background",
+        "max_iou": 0.014160919540229884,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            285,
+            35,
+            319
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            258,
+            388,
+            294,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            39,
+            270,
+            162,
+            351
+        ],
+        "label": "background",
+        "max_iou": 0.24579521982885807,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            196,
+            374,
+            214,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            63,
+            212,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            304,
+            315,
+            334,
+            334
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            78,
+            241,
+            121,
+            285
+        ],
+        "label": "background",
+        "max_iou": 0.1050986050986051,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            282,
+            185,
+            300
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            175,
+            151,
+            187,
+            165
+        ],
+        "label": "background",
+        "max_iou": 0.01583262651964942,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            83,
+            186,
+            117,
+            209
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            171,
+            224,
+            191,
+            241
+        ],
+        "label": "background",
+        "max_iou": 0.00921574048474795,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            53,
+            327
+        ],
+        "label": "background",
+        "max_iou": 0.02564102564102564,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            62,
+            342,
+            142,
+            359
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            54,
+            258,
+            71,
+            270
+        ],
+        "label": "background",
+        "max_iou": 0.023952095808383235,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            35,
+            170,
+            115,
+            199
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            71,
+            81,
+            126,
+            124
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            265,
+            221,
+            288,
+            239
+        ],
+        "label": "background",
+        "max_iou": 0.016972604003320728,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            125,
+            373,
+            170,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            254,
+            0,
+            270,
+            10
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            62,
+            98,
+            100
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            373,
+            184,
+            400,
+            208
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            63,
+            213,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            300,
+            383,
+            325,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            119,
+            193,
+            165
+        ],
+        "label": "background",
+        "max_iou": 0.03955391527599487,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            346,
+            88,
+            373,
+            101
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            311,
+            276,
+            331,
+            296
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            52,
+            328
+        ],
+        "label": "background",
+        "max_iou": 0.017138237671786582,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            150,
+            19,
+            167
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            303,
+            51,
+            332,
+            62
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            23,
+            349,
+            58,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            177,
+            113,
+            195
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            364,
+            217,
+            397
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            232,
+            62,
+            257
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            213,
+            368,
+            241,
+            383
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            61,
+            98,
+            100
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            190,
+            144,
+            214,
+            155
+        ],
+        "label": "background",
+        "max_iou": 0.015690669655365648,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            178,
+            352,
+            221,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            176,
+            0,
+            194,
+            8
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            169,
+            364,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            54,
+            328
+        ],
+        "label": "background",
+        "max_iou": 0.03410004825478526,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            344,
+            286,
+            359,
+            305
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            301,
+            390,
+            325,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            337,
+            325,
+            365,
+            340
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            51,
+            327
+        ],
+        "label": "background",
+        "max_iou": 0.00859134381585346,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            309,
+            35,
+            345
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            80,
+            240,
+            110,
+            261
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            61,
+            56,
+            90,
+            63
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            53,
+            257,
+            77,
+            271
+        ],
+        "label": "background",
+        "max_iou": 0.041109969167523124,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            143,
+            14,
+            171,
+            25
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            381,
+            346,
+            400,
+            371
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            196,
+            365,
+            222,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            1,
+            139,
+            29,
+            153
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            36,
+            278
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            133,
+            318,
+            148,
+            341
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            205,
+            374,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            53,
+            62,
+            133,
+            108
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            14,
+            249,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.04637477267268298,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            72,
+            213,
+            85
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            186,
+            26,
+            222
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            19,
+            391,
+            36,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            173,
+            84,
+            218,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            150,
+            19,
+            165
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            372,
+            257,
+            391
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            124,
+            344,
+            148,
+            362
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            341,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            166,
+            71,
+            222
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            153,
+            187,
+            179
+        ],
+        "label": "background",
+        "max_iou": 0.05390632362642541,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            213,
+            365,
+            280,
+            398
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            209,
+            89,
+            292
+        ],
+        "label": "background",
+        "max_iou": 0.1117232260907889,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            41,
+            106,
+            129,
+            148
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            382,
+            33,
+            400,
+            54
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            309,
+            35,
+            334
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            254,
+            152,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.12180064888248017,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            44,
+            71,
+            98,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            145,
+            10,
+            176,
+            22
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            52,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.013504905083450121,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            328,
+            220,
+            351,
+            236
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            145,
+            9,
+            176,
+            22
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            169,
+            364,
+            206,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            341,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            81,
+            179,
+            115,
+            207
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            300,
+            240,
+            313
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            204,
+            199,
+            244,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.09047215154085383,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            186,
+            35,
+            214
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            387,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            41,
+            43,
+            57,
+            61
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            277,
+            337,
+            338,
+            373
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            346,
+            213,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            364,
+            204,
+            384
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            198,
+            194,
+            231,
+            215
+        ],
+        "label": "background",
+        "max_iou": 0.06530958439355386,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            139,
+            0,
+            400,
+            80
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            342,
+            258,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            381,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            384,
+            33,
+            400,
+            45
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            72,
+            63,
+            117,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            103,
+            88,
+            127,
+            105
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            316,
+            308,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            119,
+            193,
+            151
+        ],
+        "label": "background",
+        "max_iou": 0.007156959526159921,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            178,
+            352,
+            221,
+            382
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            98,
+            343,
+            121,
+            355
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            178,
+            353,
+            221,
+            382
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            62,
+            106,
+            100
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            81,
+            178,
+            115,
+            207
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            110,
+            63,
+            249,
+            116
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            98,
+            342,
+            142,
+            359
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            231,
+            74,
+            258
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            33,
+            341,
+            63,
+            352
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            308,
+            321,
+            328,
+            332
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            321,
+            27,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            63,
+            161,
+            86
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            346,
+            187,
+            360
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            283,
+            37,
+            346
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            72,
+            63,
+            133,
+            109
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            72,
+            213,
+            107
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            134,
+            118,
+            188,
+            164
+        ],
+        "label": "background",
+        "max_iou": 0.03021005428369129,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            35,
+            267,
+            53,
+            306
+        ],
+        "label": "background",
+        "max_iou": 0.035583941605839414,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            173,
+            227,
+            186,
+            240
+        ],
+        "label": "background",
+        "max_iou": 0.002417705039985122,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            329,
+            9,
+            343
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            190,
+            270,
+            205,
+            285
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            345,
+            221,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            240,
+            178,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.09490870786516854,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            252,
+            284,
+            270,
+            300
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            63,
+            213,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            34,
+            263,
+            54,
+            313
+        ],
+        "label": "background",
+        "max_iou": 0.0534850640113798,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            141,
+            61,
+            212,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            56,
+            133,
+            114
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            134,
+            118,
+            194,
+            164
+        ],
+        "label": "background",
+        "max_iou": 0.03723528042820572,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            209,
+            89,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.15676905574516495,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            258,
+            381,
+            280,
+            398
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            70,
+            87,
+            123,
+            114
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            349,
+            308,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            35,
+            277
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            364,
+            214,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            222,
+            301,
+            250,
+            318
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            175,
+            87,
+            202,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            54,
+            232,
+            74,
+            249
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            133,
+            315,
+            148,
+            341
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            138,
+            7,
+            158,
+            16
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            125,
+            364,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            267,
+            308,
+            285,
+            325
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            53,
+            328
+        ],
+        "label": "background",
+        "max_iou": 0.02564102564102564,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            35,
+            170,
+            115,
+            207
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            63,
+            218,
+            107
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            153,
+            119,
+            191,
+            151
+        ],
+        "label": "background",
+        "max_iou": 0.006895964583688064,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            36,
+            278
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            256,
+            44,
+            271,
+            60
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            71,
+            178,
+            115,
+            207
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            79,
+            240,
+            117,
+            289
+        ],
+        "label": "background",
+        "max_iou": 0.12466124661246612,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            33,
+            341,
+            97,
+            352
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            363,
+            193,
+            400,
+            237
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            137,
+            120,
+            355,
+            246
+        ],
+        "label": "background",
+        "max_iou": 0.3863040629095675,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            232,
+            74,
+            257
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            88,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.08502403846153846,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            309,
+            35,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            97,
+            221
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            52,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.014463091826988675,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            321,
+            26,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            353,
+            221,
+            397
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            240,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.06233856088560886,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            187,
+            374,
+            214,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            115,
+            221
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            344,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            257,
+            53,
+            303
+        ],
+        "label": "background",
+        "max_iou": 0.022067594433399604,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            165,
+            138,
+            400,
+            307
+        ],
+        "label": "background",
+        "max_iou": 0.2645994572318826,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            166,
+            115,
+            222
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            134,
+            118,
+            400,
+            307
+        ],
+        "label": "background",
+        "max_iou": 0.21106337271750805,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            346,
+            213,
+            384
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.06393093661305582,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            177,
+            364,
+            204,
+            391
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            259,
+            53,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.02158273381294964,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            124,
+            344,
+            187,
+            362
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            54,
+            328
+        ],
+        "label": "background",
+        "max_iou": 0.03380641046085154,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            62,
+            133,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            344,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            117,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            54,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.026683448709880427,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            142,
+            63,
+            218,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            254,
+            178,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.10400954286593812,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            63,
+            213,
+            98
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            343,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            151,
+            84,
+            218,
+            107
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            44,
+            63,
+            106,
+            97
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            45,
+            178,
+            115,
+            207
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.06605410424965177,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            283,
+            37,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            342,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            309,
+            41,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            345,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            344,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            35,
+            267,
+            66,
+            320
+        ],
+        "label": "background",
+        "max_iou": 0.2367672168468981,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            51,
+            327
+        ],
+        "label": "background",
+        "max_iou": 0.007996378998189498,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            213,
+            365,
+            280,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            62,
+            133,
+            109
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            345,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            89,
+            381,
+            159,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            89,
+            364,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            124,
+            344,
+            207,
+            364
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            343,
+            240,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            125,
+            364,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            345,
+            221,
+            397
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            240,
+            152,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.11114309210526316,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            115,
+            223
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            152,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.11776751481352388,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            342,
+            239,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            148,
+            346,
+            222,
+            394
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            134,
+            118,
+            194,
+            179
+        ],
+        "label": "background",
+        "max_iou": 0.06970991679784125,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            344,
+            170,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            53,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.020134228187919462,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            62,
+            133,
+            110
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            78,
+            240,
+            121,
+            285
+        ],
+        "label": "background",
+        "max_iou": 0.10402285170197571,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            54,
+            345
+        ],
+        "label": "background",
+        "max_iou": 0.029489497843928222,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            0,
+            400,
+            246
+        ],
+        "label": "background",
+        "max_iou": 0.10783536585365854,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            341,
+            258,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            51,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.006794000769132162,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            171,
+            138,
+            400,
+            307
+        ],
+        "label": "background",
+        "max_iou": 0.2557807884282367,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            341,
+            271,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            24,
+            56,
+            133,
+            109
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            257,
+            53,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.02127659574468085,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            258,
+            54,
+            350
+        ],
+        "label": "background",
+        "max_iou": 0.028422040488001073,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            249,
+            178,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.10056551826772825,
+        "matched_gt": 1,
+        "matches": []
+    },
+    {
+        "box": [
+            18,
+            56,
+            133,
+            124
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            167,
+            117,
+            221
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            344,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            89,
+            346,
+            263,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            343,
+            258,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.0,
+        "matched_gt": 0,
+        "matches": []
+    },
+    {
+        "box": [
+            0,
+            166,
+            400,
+            400
+        ],
+        "label": "background",
+        "max_iou": 0.08600637779028325,
+        "matched_gt": 0,
+        "matches": []
+    }
+]
