@@ -82,10 +82,7 @@ for i, img_filename in enumerate(splits["train"]):
 
         labeled_proposals.append({
             "box": p,
-            "label": label,
-            "max_iou": float(max_iou),
-            "matched_gt": matched_gt,
-            "matches": matches
+            "label": label
         })
 
     # --- 4) Compute recall for this image
