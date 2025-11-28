@@ -2,8 +2,16 @@ import torch
 import matplotlib.pyplot as plt
 
 # Load the checkpoint
-checkpoint = torch.load("pothole_classifier.pth")
-history = checkpoint['history']
+# FIX: Added map_location=torch.device('cpu') to handle loading GPU models on CPU
+checkpoint = torch.load("pothole_classifier.pth", map_location=torch.device('cpu'))
+
+# Check if history exists (it might be just state_dict if using simple save)
+if 'history' in checkpoint:
+    history = checkpoint['history']
+else:
+    print("Error: The checkpoint does not contain a 'history' key.")
+    print("Keys found:", checkpoint.keys())
+    exit()
 
 # Create figure with two subplots
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 5))

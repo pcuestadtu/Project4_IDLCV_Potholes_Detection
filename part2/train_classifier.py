@@ -8,7 +8,7 @@ import os
 
 # --- Hyperparameters ---
 BATCH_SIZE = 32
-NUM_EPOCHS = 10  # Can likely converge in fewer epochs
+NUM_EPOCHS = 25  # Can likely converge in fewer epochs
 LEARNING_RATE = 0.001
 PROPOSALS_DIR = "../labeled_object_proposals_SS" # or EdgeBoxes
 IMAGES_DIR = "/dtu/datasets1/02516/potholes/images"
