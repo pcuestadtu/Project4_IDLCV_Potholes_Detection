@@ -122,12 +122,17 @@ def main():
                 val_total += labels.size(0)
                 val_correct += (predicted == labels).sum().item()
         
-        val_loss = val_running_loss / len(val_dataset)
-        val_acc = val_correct / val_total
-        print(f"Val Loss: {val_loss:.4f} Acc: {val_acc:.4f}")
-        
-        history['val_loss'].append(val_loss)
-        history['val_acc'].append(val_acc)
+        if len(val_dataset) > 0:
+            val_loss = val_running_loss / len(val_dataset)
+            val_acc = val_correct / val_total
+            print(f"Val Loss: {val_loss:.4f} Acc: {val_acc:.4f}")
+            
+            history['val_loss'].append(val_loss)
+            history['val_acc'].append(val_acc)
+        else:
+            print("Warning: Validation dataset is empty, skipping validation")
+            history['val_loss'].append(float('nan'))
+            history['val_acc'].append(float('nan'))
 
     # --- 7. Save Model ---
     checkpoint = {

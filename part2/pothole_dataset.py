@@ -30,12 +30,15 @@ class PotholeProposalDataset(Dataset):
         negatives = []
 
         print(f"Loading {'training' if is_train else 'validation'} proposals...")
-
+        print(f"Number of images in split: {len(image_filenames)}")
+        
+        missing_files = 0
         for img_name in image_filenames:
             prop_filename = img_name.replace('.png', '.json')
             prop_path = os.path.join(proposals_dir, prop_filename)
             
             if not os.path.exists(prop_path):
+                missing_files += 1
                 continue
                 
             with open(prop_path, 'r') as f:
@@ -50,6 +53,9 @@ class PotholeProposalDataset(Dataset):
                     positives.append(sample)
                 else:
                     negatives.append(sample)
+        
+        print(f"Missing proposal files: {missing_files}/{len(image_filenames)}")
+        print(f"Found {len(positives)} positive samples and {len(negatives)} negative samples before balancing")
 
         # --- Class Imbalance Handling ---
         if is_train and balance_ratio is not None:
