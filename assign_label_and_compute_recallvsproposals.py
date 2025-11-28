@@ -49,8 +49,11 @@ all_recalls = []
 folder_name = f"labeled_object_proposals_{EXTRACTOR}"
 os.makedirs(folder_name, exist_ok=True)
 
-for i, img_filename in enumerate(splits["train"]):
-    print(f"{EXTRACTOR}: {i}/{len(splits['train'])}")
+# Process both train and val splits
+all_images = splits["train"] + splits["val"]
+
+for i, img_filename in enumerate(all_images):
+    print(f"{EXTRACTOR}: {i}/{len(all_images)}")
     img_path = os.path.join(IMAGES_DIR, img_filename)
 
     # --- 1) Extract proposals ---
