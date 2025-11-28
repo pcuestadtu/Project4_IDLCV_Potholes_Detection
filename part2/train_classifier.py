@@ -69,6 +69,13 @@ def main():
     optimizer = optim.SGD(model.parameters(), lr=LEARNING_RATE, momentum=0.9)
 
     # --- 5. Training Loop ---
+    history = {
+        'train_loss': [],
+        'train_acc': [],
+        'val_loss': [],
+        'val_acc': []
+    }
+    
     for epoch in range(NUM_EPOCHS):
         model.train()
         running_loss = 0.0
@@ -94,6 +101,9 @@ def main():
         epoch_loss = running_loss / len(train_dataset)
         epoch_acc = correct / total
         print(f"Train Loss: {epoch_loss:.4f} Acc: {epoch_acc:.4f}")
+        
+        history['train_loss'].append(epoch_loss)
+        history['train_acc'].append(epoch_acc)
 
         # --- 6. Validation Loop ---
         model.eval()
@@ -115,10 +125,19 @@ def main():
         val_loss = val_running_loss / len(val_dataset)
         val_acc = val_correct / val_total
         print(f"Val Loss: {val_loss:.4f} Acc: {val_acc:.4f}")
+        
+        history['val_loss'].append(val_loss)
+        history['val_acc'].append(val_acc)
 
     # --- 7. Save Model ---
-    torch.save(model.state_dict(), "pothole_classifier.pth")
-    print("Model saved as pothole_classifier.pth")
+    checkpoint = {
+        'model_state_dict': model.state_dict(),
+        'optimizer_state_dict': optimizer.state_dict(),
+        'epoch': NUM_EPOCHS,
+        'history': history
+    }
+    torch.save(checkpoint, "pothole_classifier.pth")
+    print("Model and training history saved as pothole_classifier.pth")
 
 if __name__ == "__main__":
     main()
