@@ -1,0 +1,206 @@
+Démarrage du job avec ID $LSB_JOBID sur hôte $(hostname)
+Lancement du script d'entraînement amélioré...
+Using device: cuda
+Split file: /zhome/f4/4/223279/Project4_IDLCV_Potholes_Detection/splits.json
+Chargement des données...
+Loading training proposals...
+Number of images in split: 465
+Missing proposal files: 0/465
+Found 10185 positive samples and 287406 negative samples before balancing
+Balanced Data (Ratio ~0.25): 10185 Positives, 30555 Negatives
+Loading validation proposals...
+Number of images in split: 99
+Missing proposal files: 99/99
+Found 0 positive samples and 0 negative samples before balancing
+Total Samples (Unbalanced): 0 (0 Pos, 0 Neg)
+⚠️  ATTENTION: Dataset Validation vide. Activation du SPLIT automatique (90/10).
+Tailles finales -> Train: 36666, Val: 4074
+
+Epoch 1/25
+Train Loss: 0.3012 Acc: 0.8718
+Val Loss: 0.1989 Acc: 0.9188
+Validation Loss improved (inf --> 0.1989). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 2/25
+Train Loss: 0.2055 Acc: 0.9176
+Val Loss: 0.1446 Acc: 0.9428
+Validation Loss improved (0.1989 --> 0.1446). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 3/25
+Train Loss: 0.1720 Acc: 0.9329
+Val Loss: 0.1263 Acc: 0.9526
+Validation Loss improved (0.1446 --> 0.1263). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 4/25
+Train Loss: 0.1484 Acc: 0.9418
+Val Loss: 0.1228 Acc: 0.9548
+Validation Loss improved (0.1263 --> 0.1228). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 5/25
+Train Loss: 0.1358 Acc: 0.9463
+Val Loss: 0.1037 Acc: 0.9610
+Validation Loss improved (0.1228 --> 0.1037). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 6/25
+Train Loss: 0.1198 Acc: 0.9548
+Val Loss: 0.0996 Acc: 0.9637
+Validation Loss improved (0.1037 --> 0.0996). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 7/25
+Train Loss: 0.1050 Acc: 0.9591
+Val Loss: 0.1007 Acc: 0.9642
+No improvement for 1 epochs.
+
+Epoch 8/25
+Train Loss: 0.1009 Acc: 0.9613
+Val Loss: 0.1024 Acc: 0.9620
+No improvement for 2 epochs.
+
+Epoch 9/25
+Train Loss: 0.0855 Acc: 0.9669
+Val Loss: 0.1017 Acc: 0.9607
+No improvement for 3 epochs.
+
+Epoch 10/25
+Train Loss: 0.0795 Acc: 0.9689
+Val Loss: 0.0949 Acc: 0.9656
+Validation Loss improved (0.0996 --> 0.0949). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 11/25
+Train Loss: 0.0740 Acc: 0.9721
+Val Loss: 0.0987 Acc: 0.9661
+No improvement for 1 epochs.
+
+Epoch 12/25
+Train Loss: 0.0678 Acc: 0.9744
+Val Loss: 0.0885 Acc: 0.9671
+Validation Loss improved (0.0949 --> 0.0885). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 13/25
+Train Loss: 0.0624 Acc: 0.9767
+Val Loss: 0.0923 Acc: 0.9669
+No improvement for 1 epochs.
+
+Epoch 14/25
+Train Loss: 0.0605 Acc: 0.9774
+Val Loss: 0.0875 Acc: 0.9669
+Validation Loss improved (0.0885 --> 0.0875). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 15/25
+Train Loss: 0.0500 Acc: 0.9811
+Val Loss: 0.0924 Acc: 0.9681
+No improvement for 1 epochs.
+
+Epoch 16/25
+Train Loss: 0.0491 Acc: 0.9828
+Val Loss: 0.0920 Acc: 0.9683
+No improvement for 2 epochs.
+
+Epoch 17/25
+Train Loss: 0.0460 Acc: 0.9832
+Val Loss: 0.0824 Acc: 0.9737
+Validation Loss improved (0.0875 --> 0.0824). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 18/25
+Train Loss: 0.0431 Acc: 0.9844
+Val Loss: 0.0929 Acc: 0.9713
+No improvement for 1 epochs.
+
+Epoch 19/25
+Train Loss: 0.0391 Acc: 0.9853
+Val Loss: 0.0925 Acc: 0.9703
+No improvement for 2 epochs.
+
+Epoch 20/25
+Train Loss: 0.0357 Acc: 0.9869
+Val Loss: 0.0855 Acc: 0.9710
+No improvement for 3 epochs.
+
+Epoch 21/25
+Train Loss: 0.0335 Acc: 0.9889
+Val Loss: 0.0964 Acc: 0.9710
+No improvement for 4 epochs.
+
+Epoch 22/25
+Train Loss: 0.0240 Acc: 0.9918
+Val Loss: 0.0789 Acc: 0.9728
+Validation Loss improved (0.0824 --> 0.0789). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 23/25
+Train Loss: 0.0170 Acc: 0.9940
+Val Loss: 0.0855 Acc: 0.9767
+No improvement for 1 epochs.
+
+Epoch 24/25
+Train Loss: 0.0161 Acc: 0.9947
+Val Loss: 0.0761 Acc: 0.9757
+Validation Loss improved (0.0789 --> 0.0761). Saving model to part2/best_pothole_classifier_v2.pth...
+
+Epoch 25/25
+Train Loss: 0.0166 Acc: 0.9946
+Val Loss: 0.0830 Acc: 0.9764
+No improvement for 1 epochs.
+Training complete. Best Validation Loss: 0.0761
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@hpc.dtu.dk>
+Subject: Job 27266620: <train_pothole_2.0> in cluster <dcc> Done
+
+Job <train_pothole_2.0> was submitted from host <n-62-12-19> by user <s253263> in cluster <dcc> at Wed Dec  3 18:43:14 2025
+Job was executed on host(s) <4*n-62-18-13>, in queue <c02516>, as user <s253263> in cluster <dcc> at Wed Dec  3 18:43:16 2025
+</zhome/f4/4/223279> was used as the home directory.
+</zhome/f4/4/223279/Project4_IDLCV_Potholes_Detection> was used as the working directory.
+Started at Wed Dec  3 18:43:16 2025
+Terminated at Wed Dec  3 19:53:55 2025
+Results reported at Wed Dec  3 19:53:55 2025
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/bash
+#BSUB -q c02516
+#BSUB -J train_pothole_2.0
+#BSUB -gpu "num=1:mode=exclusive_process"
+#BSUB -n 4
+#BSUB -R "span[hosts=1]"
+#BSUB -R "rusage[mem=20GB]"
+#BSUB -M 20GB
+#BSUB -W 04:00
+#BSUB -o logs/%J.out
+#BSUB -e logs/%J.err
+
+# --- COMMANDES D'EXECUTION ---
+mkdir -p logs
+echo "Démarrage du job avec ID \$LSB_JOBID sur hôte \$(hostname)"
+
+# Activation de TON environnement virtuel
+source env_DL/bin/activate
+
+echo "Lancement du script d'entraînement amélioré..."
+python3 part2/train_classifier_2.0.py
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   16762.42 sec.
+    Max Memory :                                 1386 MB
+    Average Memory :                             1271.60 MB
+    Total Requested Memory :                     81920.00 MB
+    Delta Memory :                               80534.00 MB
+    Max Swap :                                   -
+    Max Processes :                              8
+    Max Threads :                                24
+    Run time :                                   4285 sec.
+    Turnaround time :                            4241 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <logs/27266620.err> for stderr output of this job.
+
